@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ArasvaAssignment.Identity/bin/Debug/net9.0
+/ArasvaAssignment.Identity/obj
+/ArasvaAssignment.Infrastructure/bin/Debug/net9.0
+/ArasvaAssignment.Infrastructure/obj
+/src/API/ArasvaAssignment.API/bin/Debug/net9.0
+/src/API/ArasvaAssignment.API/obj
+/src/Core/ArasvaAssignment.Application/bin/Debug/net9.0
+/src/Core/ArasvaAssignment.Application/obj
+/src/Core/ArasvaAssignment.Domain/bin/Debug/net9.0
+/src/Core/ArasvaAssignment.Domain/obj
+/src/Infrastructure/ArasvaAssignment.Persistence/bin/Debug/net9.0
+/src/Infrastructure/ArasvaAssignment.Persistence/obj
+/.vs

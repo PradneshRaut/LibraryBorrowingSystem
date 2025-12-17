@@ -1,4 +1,3 @@
-
 Steps:
 1.Clone the project from github link in one folder
 2.In the appsetting add your connection string
